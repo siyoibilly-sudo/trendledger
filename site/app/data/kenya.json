@@ -1,0 +1,19 @@
+{
+  "indicators": [
+    {
+      "name": "GDP Growth",
+      "value": 5.3,
+      "unit": "%",
+      "year": 2025,
+      "source": "World Bank"
+    },
+    {
+      "name": "Inflation Rate",
+      "value": 6.1,
+      "unit": "%",
+      "year": 2025,
+      "source": "Kenya National Bureau of Statistics"
+    }
+  ]
+}
+
